@@ -1,2 +1,3 @@
 # CSS225Module8Booleans
-Python programs for CSS225 module 8 lab activity on booleans
+This repository contains the Python programs completed for the CSS225 Module 8 Lab Activity on Booleans. 
+Each file solves one of the assigned problems from the lab and includes comments explaining what the program does.
